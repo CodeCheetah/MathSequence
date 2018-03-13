@@ -85,7 +85,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TestProject.Logic\MathSequence.Logic.csproj">
+    <ProjectReference Include="..\MathSequence.Logic\MathSequence.Logic.csproj">
       <Project>{fc7d5563-cf7c-4ca0-88ee-dbb1fbece88f}</Project>
       <Name>MathSequence.Logic</Name>
     </ProjectReference>

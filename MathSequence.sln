@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSequence.App", "TestProject\MathSequence.App.csproj", "{A4572B10-1BE4-4898-BBC0-684D71C1BD47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSequence.App", "MathSequence.App\MathSequence.App.csproj", "{A4572B10-1BE4-4898-BBC0-684D71C1BD47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSequence.Tests", "TestProject.Tests\MathSequence.Tests.csproj", "{525EBFDB-8744-4B0D-B2EE-88836D73F506}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSequence.Tests", "MathSequence.Tests\MathSequence.Tests.csproj", "{525EBFDB-8744-4B0D-B2EE-88836D73F506}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSequence.Logic", "TestProject.Logic\MathSequence.Logic.csproj", "{FC7D5563-CF7C-4CA0-88EE-DBB1FBECE88F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSequence.Logic", "MathSequence.Logic\MathSequence.Logic.csproj", "{FC7D5563-CF7C-4CA0-88EE-DBB1FBECE88F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSequence.Web", "TestProject.Web\MathSequence.Web.csproj", "{CC0E1B99-63EB-4294-8B3F-C9C8B1C28B50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSequence.Web", "MathSequence.Web\MathSequence.Web.csproj", "{CC0E1B99-63EB-4294-8B3F-C9C8B1C28B50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSequence.RestService", "TestProject.RestService\MathSequence.RestService.csproj", "{DD8248EE-BADC-4307-90EB-18E4A76D2246}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSequence.RestService", "MathSequence.RestService\MathSequence.RestService.csproj", "{DD8248EE-BADC-4307-90EB-18E4A76D2246}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
